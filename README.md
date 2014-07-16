@@ -1,4 +1,4 @@
-resource-ri
-===========
+resource-api
+============
 
-The reference implementation of the resource API.
+The API of the resource module.
