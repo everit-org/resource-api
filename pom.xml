@@ -87,7 +87,9 @@
             <Import-Package>
               *
             </Import-Package>
-            <Export-Package>org.everit.osgi.resource;version="${project.version}"</Export-Package>
+            <Export-Package>
+              org.everit.osgi.resource;version="${project.version}"
+            </Export-Package>
           </instructions>
         </configuration>
       </plugin>

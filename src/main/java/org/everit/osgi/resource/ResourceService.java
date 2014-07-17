@@ -16,6 +16,9 @@
  */
 package org.everit.osgi.resource;
 
+/**
+ * Service interface for Resource related operations.
+ */
 public interface ResourceService {
 
     /**
