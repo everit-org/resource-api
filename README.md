@@ -3,4 +3,8 @@ resource-api
 
 The API of the resource module.
 
-[![Analytics](https://ga-beacon.appspot.com/UA-15041869-4/everit-org/resource-api)](https://github.com/igrigorik/ga-beacon)
+Resource is about a very simple entity that has one auto-increment field.
+Resource is used at lots of other projects. E.g.:
+
+ - Resource can have permissions to do actions on resources
+ - Resources can authenticate into the system
