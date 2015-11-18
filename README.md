@@ -1,4 +1,4 @@
 resource-api
 ============
 
-Documentation: http://wwww.everit.org/resource-api
+Documentation: http://www.everit.org/resource-api
